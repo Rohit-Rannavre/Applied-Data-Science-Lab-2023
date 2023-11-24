@@ -1,6 +1,7 @@
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/72/WQU_logo_color.png" width="200">
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/72/WQU_logo_color.png" width="250">
 
 # :star: Applied Data Science Lab [2023]
+<br>
 
 This repository highlights the projects I did as a student of the *Applied Data Science Lab* at [WorldQuant University](https://www.wqu.edu/programs/applied-ds-lab/).
 
