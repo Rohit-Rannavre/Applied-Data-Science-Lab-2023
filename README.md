@@ -44,11 +44,11 @@ This repository highlights the projects I did as a student of the *Applied Data 
 ![](https://img.shields.io/badge/Project%208-volatality%20forecasting%20in%20india-54c7b9?style=for-the-badge)
 > Developed a GARCH time series model to forecast asset volatility, retrieved stock data via an API, cleaned and stored the data in a SQLite database and lastly constructed an API to deliver model predictions.
 
-<br>
+***
 
 ### Completion Badge
 
-<br>
+***
 
 ### ***Note***: **The code content of the projects will not be uploaded due to copyright issues.**
 
