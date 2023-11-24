@@ -1,4 +1,4 @@
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/72/WQU_logo_color.png" width="300">
+<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/72/WQU_logo_color.png" width="200">
 
 # :star: Applied Data Science Lab [2023]
 
