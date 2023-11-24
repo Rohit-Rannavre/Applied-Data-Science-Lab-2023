@@ -50,7 +50,7 @@ This repository highlights the projects I did as a student of the *Applied Data 
 
 ***
 
-### ***Note***: **The code content of the projects will not be uploaded due to copyright issues.**
+**NOTE**: *The code content of the projects will not be uploaded due to copyright issues.*
 
 <br>
 
