@@ -27,12 +27,12 @@ This repository highlights the projects I did as a student of the *Applied Data 
 ***
 
 ![](https://img.shields.io/badge/Project%205-Bankruptcy%20in%20Poland-fc4903?style=for-the-badge)
-> Developed random forest and gradient boosting models for predicting the likelihood of a company going bankrupt. Navigated the Linux command line, addressed data imbalance through resampling techniques, and evaluated the impact of performance metrics such as precision and recall.
+> Developed random forest and gradient boosting models for predicting the likelihood of a company going bankrupt. Navigated the Linux command line, addressed data imbalance through resampling techniques and evaluated the impact of performance metrics such as precision and recall.
 
 ***
 
 ![](https://img.shields.io/badge/Project%206-Customer%20Segmentation%20in%20the%20US-f22ce2?style=for-the-badge)
-> Constructed a k-means model to cluster US consumers into distinct groups, employed principal component analysis (PCA) for data visualization and subsequently designed an interactive dashboard using Plotly Dash.
+> Constructed a k-means model to cluster US consumers into distinct groups, employed principal component analysis (PCA) for data visualization and finally designed an interactive dashboard using Plotly Dash.
 
 ***
 
