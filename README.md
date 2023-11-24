@@ -5,7 +5,7 @@
 
 The [Applied Data Science Lab](https://www.wqu.edu/programs/applied-ds-lab/), offered by *WorldQuant University*, is an immersive online program designed to equip students with practical skills in addressing real-world, intricate challenges. Spanning over 16 weeks, the program engages participants in a series of comprehensive data science projects that enable them to develop proficiency in data wrangling, analysis, model-building and effective communication through hands-on experience.
 
-Throughout the program, I had the opportunity to actively participate in eight fascinating projects designed to strengthen the fundamental data science concepts. Let me offer a concise explanation of each project.
+Throughout the program, I had the opportunity to actively participate in eight fascinating projects, all designed to strengthen fundamental data science concepts. Let me offer a concise explanation of each project.
 
 <br>
 
