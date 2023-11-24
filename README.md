@@ -6,7 +6,7 @@ This repository highlights the projects I did as a student of the *Applied Data 
 
 <br>
 
-![](https://img.shields.io/badge/Project%201-Housing%20in%20Mexico-green?style=for-the-badge)
+![](https://img.shields.io/badge/Project%201-Housing%20in%20Mexico-eb3470?style=for-the-badge)
 > Analyzed a dataset comprising 21,000 properties to ascertain whether real estate prices are predominantly influenced by property size or location. The process involved importing and cleaning data from a CSV file, creating data visualizations and exploring the correlation between the two variables.
 
 ***
@@ -16,32 +16,32 @@ This repository highlights the projects I did as a student of the *Applied Data 
 
 ***
 
-![](https://img.shields.io/badge/Project%203-Air%20Quality%20in%20Nairobi-green?style=for-the-badge)
+![](https://img.shields.io/badge/Project%203-Air%20Quality%20in%20Nairobi-990098?style=for-the-badge)
 > Build an ARMA time-series model for forecasting particulate matter levels in Kenya. Extracted data from a MongoDB database using pymongo and fine-tuned model performance through hyperparameter adjustments.
 
 ***
 
-![](https://img.shields.io/badge/Project%204-Earthquake%20Damage%20in%20Nepal-green?style=for-the-badge)
+![](https://img.shields.io/badge/Project%204-Earthquake%20Damage%20in%20Nepal-fcba03?style=for-the-badge)
 > Constructed logistic regression and decision tree models for predicting earthquake damage to buildings. Extracted relevant data from a SQLite database and identified biases within the dataset that may contribute to discriminatory outcomes.
 
 ***
 
-![](https://img.shields.io/badge/Project%205-Bankruptcy%20in%20Poland-green?style=for-the-badge)
+![](https://img.shields.io/badge/Project%205-Bankruptcy%20in%20Poland-fc4903?style=for-the-badge)
 > Developed random forest and gradient boosting models for predicting the likelihood of a company going bankrupt. Navigated the Linux command line, addressed data imbalance through resampling techniques, and evaluated the impact of performance metrics such as precision and recall.
 
 ***
 
-![](https://img.shields.io/badge/Project%206-Customer%20Segmentation%20in%20the%20US-green?style=for-the-badge)
+![](https://img.shields.io/badge/Project%206-Customer%20Segmentation%20in%20the%20US-f22ce2?style=for-the-badge)
 > Constructed a k-means model to cluster US consumers into distinct groups, employed principal component analysis (PCA) for data visualization and subsequently designed an interactive dashboard using Plotly Dash.
 
 ***
 
-![](https://img.shields.io/badge/Project%207-A/B%20Testing%20at%20worldquant%20University-green?style=for-the-badge)
+![](https://img.shields.io/badge/Project%207-A/B%20Testing%20at%20worldquant%20University-orange?style=for-the-badge)
 > Performed a chi-square test to assess the impact of email communication on program enrollment at WQU. Developed custom Python classes for an Extract, Transform, Load (ETL) process and designed an interactive data application following a three-tiered design pattern.
 
 ***
 
-![](https://img.shields.io/badge/Project%208-volatality%20forecasting%20in%20india-green?style=for-the-badge)
+![](https://img.shields.io/badge/Project%208-volatality%20forecasting%20in%20india-54c7b9?style=for-the-badge)
 > Developed a GARCH time series model to forecast asset volatility, retrieved stock data via an API, cleaned and stored the data in a SQLite database and lastly constructed an API to deliver model predictions.
 
 <br>
