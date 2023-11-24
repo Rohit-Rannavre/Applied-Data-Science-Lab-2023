@@ -2,8 +2,58 @@
 
 # :star: Applied Data Science Lab [2023]
 
-This repository highlights the projects I did as a student of [The WorldQuant University](https://www.wqu.edu/programs/applied-ds-lab/).
+This repository highlights the projects I did as a student of the *Applied Data Science Lab* at [WorldQuant University](https://www.wqu.edu/programs/applied-ds-lab/).
 
 <br>
 
-![](https://img.shields.io/badge/Project%201-Prediction%20Using%20Supervised%20Machine%20Learning%20%5BLevel%3A%20Beginner%5D-green?style=for-the-badge)
+![](https://img.shields.io/badge/Project%201-Housing%20in%20Mexico-green?style=for-the-badge)
+> Analyzed a dataset comprising 21,000 properties to ascertain whether real estate prices are predominantly influenced by property size or location. The process involved importing and cleaning data from a CSV file, creating data visualizations and exploring the correlation between the two variables.
+
+***
+
+![](https://img.shields.io/badge/Project%202-Apartment%20Sales%20in%20Buenos%20Aires-green?style=for-the-badge)
+> Developed a linear regression model aimed at predicting apartment prices in Argentina. Established a data pipeline to handle missing values and encode categorical features, subsequently enhancing model performance through the reduction of overfitting.
+
+***
+
+![](https://img.shields.io/badge/Project%203-Air%20Quality%20in%20Nairobi-green?style=for-the-badge)
+> Build an ARMA time-series model for forecasting particulate matter levels in Kenya. Extracted data from a MongoDB database using pymongo and fine-tuned model performance through hyperparameter adjustments.
+
+***
+
+![](https://img.shields.io/badge/Project%204-Earthquake%20Damage%20in%20Nepal-green?style=for-the-badge)
+> Constructed logistic regression and decision tree models for predicting earthquake damage to buildings. Extracted relevant data from a SQLite database and identified biases within the dataset that may contribute to discriminatory outcomes.
+
+***
+
+![](https://img.shields.io/badge/Project%205-Bankruptcy%20in%20Poland-green?style=for-the-badge)
+> Developed random forest and gradient boosting models for predicting the likelihood of a company going bankrupt. Navigated the Linux command line, addressed data imbalance through resampling techniques, and evaluated the impact of performance metrics such as precision and recall.
+
+***
+
+![](https://img.shields.io/badge/Project%206-Customer%20Segmentation%20in%20the%20US-green?style=for-the-badge)
+> Constructed a k-means model to cluster US consumers into distinct groups, employed principal component analysis (PCA) for data visualization and subsequently designed an interactive dashboard using Plotly Dash.
+
+***
+
+![](https://img.shields.io/badge/Project%207-A/B%20Testing%20at%20worldquant%20University-green?style=for-the-badge)
+> Performed a chi-square test to assess the impact of email communication on program enrollment at WQU. Developed custom Python classes for an Extract, Transform, Load (ETL) process and designed an interactive data application following a three-tiered design pattern.
+
+***
+
+![](https://img.shields.io/badge/Project%208-volatality%20forecasting%20in%20india-green?style=for-the-badge)
+> Developed a GARCH time series model to forecast asset volatility, retrieved stock data via an API, cleaned and stored the data in a SQLite database and lastly constructed an API to deliver model predictions.
+
+<br>
+
+### Completion Badge
+
+<br>
+
+### ***Note***: **The code content of the projects will not be uploaded due to copyright issues.**
+
+<br>
+
+### ***Let's connect:*** 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)
