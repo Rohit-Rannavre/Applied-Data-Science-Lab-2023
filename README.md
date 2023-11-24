@@ -13,7 +13,7 @@ Throughout the program, I had the opportunity to actively participate in eight f
 > Analyzed a dataset comprising 21,000 properties to ascertain whether real estate prices are predominantly influenced by property size or location. The process involved importing and cleaning data from a CSV file, creating data visualizations and exploring the correlation between the two variables.
 <br>
 
-![](https://img.shields.io/badge/Project%202-Apartment%20Sales%20in%20Buenos%20Aires-green?style=for-the-badge)
+![](https://img.shields.io/badge/Project%202-Apartment%20Sales%20in%20Buenos%20Aires-orange?style=for-the-badge)
 > Developed a linear regression model aimed at predicting apartment prices in Argentina. Established a data pipeline to handle missing values and encode categorical features, subsequently enhancing model performance through the reduction of overfitting.
 <br>
 
@@ -33,7 +33,7 @@ Throughout the program, I had the opportunity to actively participate in eight f
 > Constructed a k-means model to cluster US consumers into distinct groups, employed principal component analysis (PCA) for data visualization and finally designed an interactive dashboard using Plotly Dash.
 <br>
 
-![](https://img.shields.io/badge/Project%207-A/B%20Testing%20at%20worldquant%20University-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Project%207-A/B%20Testing%20at%20worldquant%20University-green?style=for-the-badge)
 > Performed a chi-square test to assess the impact of email communication on program enrollment at WQU. Developed custom Python classes for an Extract, Transform, Load (ETL) process and designed an interactive data application following a three-tiered design pattern.
 <br>
 
