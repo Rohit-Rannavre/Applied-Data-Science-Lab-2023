@@ -41,7 +41,7 @@ Throughout the program, I had the opportunity to actively participate in eight f
 > Developed a GARCH time series model to forecast asset volatility, retrieved stock data via an API, cleaned and stored the data in a SQLite database and lastly constructed an API to deliver model predictions.
 <br>
 
-### :zap: [Completion Badge](https://www.credly.com/badges/ad0858a9-0c9f-4e2d-a5e0-65baab49dfd7/public_url):
+### :zap: [Completion Badge](https://www.credly.com/badges/ad0858a9-0c9f-4e2d-a5e0-65baab49dfd7/public_url)
 
 <img align="center" src="https://images.credly.com/size/340x340/images/42780b1f-a849-40e0-88a8-de3ab38adc52/image.png" width="400">
 <br>
