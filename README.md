@@ -37,7 +37,7 @@ Throughout the program, I had the opportunity to actively participate in eight f
 > Performed a chi-square test to assess the impact of email communication on program enrollment at WQU. Developed custom Python classes for an Extract, Transform, Load (ETL) process and designed an interactive data application following a three-tiered design pattern.
 <br>
 
-![](https://img.shields.io/badge/Project%208-volatality%20forecasting%20in%20india-54c7b9?style=for-the-badge)
+![](https://img.shields.io/badge/Project%208-volatility/market%20forecasting%20in%20india-54c7b9?style=for-the-badge)
 > Developed a GARCH time series model to forecast asset volatility, retrieved stock data via an API, cleaned and stored the data in a SQLite database and lastly constructed an API to deliver model predictions.
 <br>
 
