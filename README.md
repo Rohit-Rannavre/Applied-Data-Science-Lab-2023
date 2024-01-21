@@ -18,7 +18,7 @@ Throughout the program, I had the opportunity to actively participate in eight f
 <br>
 
 ![](https://img.shields.io/badge/Project%203-Air%20Quality%20in%20Nairobi-990098?style=for-the-badge)
-> Build an ARMA time-series model for forecasting particulate matter levels in Kenya. Extracted data from a MongoDB database using pymongo and fine-tuned model performance through hyperparameter adjustments.
+> Built an ARMA time-series model for forecasting particulate matter levels in Kenya. Extracted data from a MongoDB database using pymongo and fine-tuned model performance through hyperparameter adjustments.
 <br>
 
 ![](https://img.shields.io/badge/Project%204-Earthquake%20Damage%20in%20Nepal-fcba03?style=for-the-badge)
