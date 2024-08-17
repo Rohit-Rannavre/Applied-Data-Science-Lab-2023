@@ -43,7 +43,7 @@ Throughout the program, I had the opportunity to actively participate in eight f
 
 ### :zap: [Completion Badge](https://www.credly.com/badges/ad0858a9-0c9f-4e2d-a5e0-65baab49dfd7/public_url)
 
-<img align="center" src="https://images.credly.com/size/340x340/images/42780b1f-a849-40e0-88a8-de3ab38adc52/image.png" width="400">
+<img align="center" src="https://images.credly.com/size/340x340/images/876b01ef-23aa-4a29-b6d2-56c230b89935/image.png" width="400">
 <br>
 
 **NOTE**: *The code content of the projects will not be uploaded due to copyright issues.*
