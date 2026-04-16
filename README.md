@@ -1,5 +1,3 @@
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/72/WQU_logo_color.png" width="215">
-
 # :star: Applied Data Science Lab [2023]
 <br>
 
@@ -47,9 +45,3 @@ Throughout the program, I had the opportunity to actively participate in eight f
 <br>
 
 **NOTE**: *The code content of the projects will not be uploaded due to copyright issues.*
-
-<br>
-
-### ***Let's connect:*** 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-rannavre) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.rannavre@gmail.com)  
